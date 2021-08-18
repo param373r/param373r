@@ -39,5 +39,5 @@ Need some help? I am up for work too... Kindly contact me here😃:
 
 ## Featured Repos
 
-![3L3Y3 Port Scanner](https://github-readme-stats.vercel.app/api/pin/?username=belikeParamjot&repo=3L3Y3&theme=vue-dark)
+![3L3Y3 Port Scanner](https://github-readme-stats.vercel.app/api/pin/?username=belikeParamjot&theme=vue-dark&repo=3L3Y3)
 ![WriteUps](https://github-readme-stats.vercel.app/api/pin/?username=belikeParamjot&repo=WriteUps&theme=vue-dark)
