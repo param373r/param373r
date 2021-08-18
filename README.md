@@ -2,16 +2,14 @@
 <br>
 <h1 align="center">Hi there 👋 Myself Paramjot Singh (aka j4x0n)</h1>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/YTDZakyAorkLDYqN0q/giphy.gif" width='150' />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/YTDZakyAorkLDYqN0q/giphy.gif" width='200' />
 <p aligh="left">I am just a guy who has all kinds of interests in Technology (Mostly, InfoSec stuff). So my interests include anything and everything ranging from competitive hacking challenges😎(aka CTFs) to gaming like a complete n00b🥴. I am a student pursuing my bachelor's degree from <a href='https://lpu.in'>Lovely Professional University</a>. I am also a part-time freelancer (which actually gives a boost to my pocket money😋), where I develop websites for individuals or small startups (Yea, kinda lowkey)</p>
 
-<br>
 <br>
 
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=belikeParamjot&color=blue)](https://twitter.com/belikeParamjot)
 [![Twitch](https://img.shields.io/static/v1?style=for-the-badge&logo=Twitch&label=Twitch&message=heyj4x0n&color=purple)](https://twitch.tv/heyj4x0n)
-[![Medium](https://img.shields.io/static/v1?style=for-the-badge&logo=Medium&label=Medium&message=belikeParamjot&color=black)](https://medium.com/@belikeParamjot)
-[![StackOverflow](https://img.shields.io/static/v1?style=for-the-badge&logo=stackoverflow&label=StackOverflow&message=j4x0n&color=black)](https://stackoverflow.com/users/13859559/j4x0n)
+[![Website](https://img.shields.io/static/v1?style=for-the-badge&logo=circle&label=Website&message=belikeParamjot.tk&color=black)](https://belikeParamjot.tk)
 
 
 <br>
