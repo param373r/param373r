@@ -2,7 +2,6 @@
 <br>
 <h1 align="center">Hi there 👋 Myself Paramjot Singh (aka j4x0n)</h1>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/YTDZakyAorkLDYqN0q/giphy.gif" width='200' height='150' />
 <p aligh="left">I am just a guy who has all kinds of interests in Technology (Mostly, InfoSec stuff). So my interests include anything and everything ranging from competitive hacking challenges😎(aka CTFs) to gaming like a complete n00b🥴. I am a student pursuing my bachelor's degree from <a href='https://lpu.in'>Lovely Professional University</a>. I am also a part-time freelancer (which actually gives a boost to my pocket money😋), where I develop websites for individuals or small startups (Yea, kinda lowkey).</p>
 
 <br>
@@ -12,7 +11,7 @@
 [![Website](https://img.shields.io/static/v1?style=for-the-badge&logo=circle&label=Website&message=belikeParamjot.tk&color=black)](https://belikeParamjot.tk)
 
 
-<br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/YTDZakyAorkLDYqN0q/giphy.gif" width='250' />
 
 - 🔭 I’m currently working on _Bug Hunting, to get some experience on real-world based vulnerabilities_
 - 🌱 I’m currently learning _stuff, typically, whatever comes my way hehe_
