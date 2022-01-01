@@ -1,6 +1,6 @@
 <br>
 <br>
-<h1 align="center">Hi there 👋 Myself Paramjot Singh (aka j4x0n)</h1>
+<h1 align="center">Hi there 👋 Myself Paramjot Singh (aka param373r)</h1>
 
 <p aligh="left">I am just a guy who has all kinds of interests in Technology (Mostly, InfoSec stuff). So my interests include anything and everything ranging from competitive hacking challenges😎(aka CTFs) to gaming like a complete n00b🥴. I am a student pursuing my bachelor's degree from <a href='https://lpu.in'>Lovely Professional University</a>. I am also a part-time freelancer (which actually gives a boost to my pocket money😋), where I develop websites for individuals or small startups (Yea, kinda lowkey).</p>
 
