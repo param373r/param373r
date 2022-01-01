@@ -34,8 +34,8 @@ Need some help? I am up for work too... Kindly contact me here😃:
 
 ## Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=belikeParamjot&show_icons=true&theme=vue-dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belikeParamjot&count_private=true&theme=vue-dark&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=param373r&show_icons=true&theme=vue-dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=param373r&count_private=true&theme=vue-dark&layout=compact)
 
 ## Featured Repos
 
