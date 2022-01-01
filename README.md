@@ -6,8 +6,8 @@
 
 <br>
 
-[![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=belikeParamjot&color=blue)](https://twitter.com/belikeParamjot)
-[![Twitch](https://img.shields.io/static/v1?style=for-the-badge&logo=Twitch&label=Twitch&message=heyj4x0n&color=purple)](https://twitch.tv/heyj4x0n)
+[![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=param373r&color=blue)](https://twitter.com/param373r)
+[![Twitch](https://img.shields.io/static/v1?style=for-the-badge&logo=Twitch&label=Twitch&message=param373r&color=purple)](https://twitch.tv/param373r)
 [![Website](https://img.shields.io/static/v1?style=for-the-badge&logo=circle&label=Website&message=belikeParamjot.tk&color=black)](https://belikeParamjot.tk)
 
 
@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning _stuff, typically, whatever comes my way hehe_
 - 👯 I’m looking to collaborate on _projects, that are based on automation (preferrably OSINT stuff)_
 - 🤔 I’m looking for help with _life, and it's recurring drama_
-- 📫 How to reach me: _I would've given my Insta, but I am not that good looking so let's stick with_ [Twitter](https://twitter.com/belikeParamjot) _plzz_
+- 📫 How to reach me: _I would've given my Insta, but I am not that good looking so let's stick with_ [Twitter](https://twitter.com/param373r) _plzz_
 - 😄 Pronouns: _He/Him_
 - ⚡ Fun fact: _Excess of coffee can cause anxiety, Bewehehehare_
 
@@ -28,8 +28,8 @@ Need some help? I am up for work too... Kindly contact me here😃:
 <br>
 <br>
 [![Freelancer](https://img.shields.io/static/v1?style=for-the-badge&logo=freelancer&label=Freelancer&message=iParamjotSingh&color=blue)](https://freelancer.com/u/iParamjotSingh)
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=LinkedIn&message=iParamjotSingh&color=blue)](https://linkedin.com/in/iparamjotsingh)
-[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Gmail&message=theparamjotsingh@gmail.com&color=red)](mailto:theparamjotsingh@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=LinkedIn&message=param373r&color=blue)](https://linkedin.com/in/param373r)
+[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Gmail&message=param373r@gmail.com&color=red)](mailto:param373r@gmail.com)
 
 
 ## Github Stats
@@ -39,5 +39,5 @@ Need some help? I am up for work too... Kindly contact me here😃:
 
 ## Featured Repos
 
-![3L3Y3 Port Scanner](https://github-readme-stats.vercel.app/api/pin/?username=belikeParamjot&theme=vue-dark&repo=3L3Y3)
-![WriteUps](https://github-readme-stats.vercel.app/api/pin/?username=belikeParamjot&repo=WriteUps&theme=vue-dark)
+![3L3Y3 Port Scanner](https://github-readme-stats.vercel.app/api/pin/?username=param373r&theme=vue-dark&repo=3L3Y3)
+![WriteUps](https://github-readme-stats.vercel.app/api/pin/?username=param373r&repo=WriteUps&theme=vue-dark)
