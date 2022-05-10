@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on _Front-End Development_
 - 🌱 I’m currently learning _JS, DOM based scripting, and practicing CSS to make graphically-rich sites._
-- 👯 I’m looking to collaborate on _projects, that are based on artistically unique, and made with creativity (preferrably designing UI and stuff)_
+- 👯 I’m looking to collaborate on _projects, that are artistically unique, and made with creativity (preferrably designing UI and stuff)_
 - 🤔 I’m looking for help with _life, and it's recurring drama_
 - 📫 How to reach me: _I would've given my Insta, but I am not that aesthetically pleasing... so let's stick with my_ [Twitter](https://twitter.com/param373r) _plzz_
 - 😄 Pronouns: _He/Him_
