@@ -2,7 +2,7 @@
 <br>
 <h1 align="center">Hi there 👋 Myself Paramjot Singh (aka param373r)</h1>
 
-<p aligh="left">I am just a guy who has all kinds of interests in Technology (Mostly, WebDev stuff). So my interests include anything and everything ranging from competitive JS challenges😎 to gaming like a complete n00b🥴. I am a student pursuing my bachelor's degree from <a href='https://lpu.in'>Lovely Professional University</a>. I am also a part-time freelancer (which actually gives a boost to my pocket money😋), where I develop websites for individuals or small startups (Yea, kinda lowkey).</p>
+<p aligh="left">I am just a guy who has all kinds of interests in Technology (Mostly, Hacky stuff). So my interests include anything and everything ranging from competitive CTF challenges😎 to gaming like a complete n00b🥴. I am a student pursuing my bachelor's degree from <a href='https://lpu.in'>Lovely Professional University</a>. I am also a part-time freelancer (which actually gives a boost to my pocket money😋), where I develop websites and pentest some for individuals or small startups (Yea, kinda lowkey).</p>
 
 <br>
 
@@ -13,9 +13,9 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/YTDZakyAorkLDYqN0q/giphy.gif" width='250' />
 
-- 🔭 I’m currently working on _Front-End Development_
-- 🌱 I’m currently learning _JS, DOM based scripting, and practicing CSS to make graphically-rich sites._
-- 👯 I’m looking to collaborate on _projects, that are artistically unique, and the ones that are made with creativity in focus (preferrably designing UI and stuff)_
+- 🔭 I’m currently working on _creating a web-lab full of vulnerable client and server end challenges._
+- 🌱 I’m currently learning _JS, DOM based scripting, and hardening linux servers._
+- 👯 I’m looking to collaborate on _anything that's related to creating and developing vulnerable instances and testing their respective vulnerabilities._
 - 🤔 I’m looking for help with _life, and it's recurring drama_
 - 📫 How to reach me: _I would've given my Insta, but I am not that aesthetically pleasing... so let's stick with my_ [Twitter](https://twitter.com/param373r) _plzz_
 - 😄 Pronouns: _He/Him_
