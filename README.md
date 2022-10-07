@@ -31,11 +31,9 @@ Need some help? I am up for work too... Kindly contact me here😃:
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=LinkedIn&message=param373r&color=blue)](https://linkedin.com/in/param373r)
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Gmail&message=param373r@gmail.com&color=red)](mailto:param373r@gmail.com)
 
-
 ## Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=param373r&show_icons=true&theme=vue-dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=param373r&count_private=true&theme=vue-dark&layout=compact)
 
 ## Featured Repos
 
