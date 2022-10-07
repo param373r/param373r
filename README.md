@@ -40,5 +40,5 @@ Need some help? I am up for work too... Kindly contact me here😃:
 ## Featured Repos
 
 ![Notes App](https://github-readme-stats.vercel.app/api/pin/?username=param373r&theme=vue-dark&repo=notes-app)
-![Odin Recipes](https://github-readme-stats.vercel.app/api/pin/?username=param373r&theme=vue-dark&repo=odin-recipes)
 ![Online-Insurance-Managment](https://github-readme-stats.vercel.app/api/pin/?username=param373r&repo=Online-Insurance-Managment&theme=vue-dark)
+![Odin Recipes](https://github-readme-stats.vercel.app/api/pin/?username=param373r&theme=vue-dark&repo=odin-recipes)
