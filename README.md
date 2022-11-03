@@ -8,7 +8,7 @@
 
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=param373r&color=blue)](https://twitter.com/param373r)
 [![Twitch](https://img.shields.io/static/v1?style=for-the-badge&logo=Twitch&label=Twitch&message=param373r&color=purple)](https://twitch.tv/param373r)
-[![Website](https://img.shields.io/static/v1?style=for-the-badge&logo=circle&label=Website&message=belikeParamjot.tk&color=black)](https://belikeParamjot.tk)
+[![Website](https://img.shields.io/static/v1?style=for-the-badge&logo=circle&label=Website&message=param373r.me&color=black)](https://param373r.me/)
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/YTDZakyAorkLDYqN0q/giphy.gif" width='250' />
